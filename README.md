@@ -1,3 +1,4 @@
+**This is a my Secondary GitHub Account, used solely to resolve application clashes as I had to change my main GitHub Name**.
 <h1></h1>
 <div id="header" align="center">
 <div id="badges">
@@ -30,7 +31,6 @@
   
 </h1>
 <strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
-
 </div>
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
 
