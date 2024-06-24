@@ -7,7 +7,7 @@
   <a href="mailto:harshitpandey3001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/HarshitPan">
+  <a href="https://github.com/harshit-pandey-3001">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/harshit3001/">
@@ -29,6 +29,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   
 </h1>
+<strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
+
 </div>
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
 
