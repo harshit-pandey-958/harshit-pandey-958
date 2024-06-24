@@ -1,6 +1,6 @@
 **This is a my Secondary GitHub Account, used solely to resolve application clashes as I had to change my Main GitHub Account UserName**. <br/>
 **Please go through my main GitHub repo :)**<br/>
-<strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
+<strong>Main GitHub -> <a href="https://github.com/HarshitPan">HarshitPan</a></strong>
 <h1></h1>
 <div id="header" align="center">
 <div id="badges">
@@ -10,7 +10,7 @@
   <a href="mailto:harshitpandey3001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/harshit-pandey-3001">
+  <a href="https://github.com/HarshitPan">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/harshit3001/">
