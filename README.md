@@ -1,5 +1,5 @@
 **This is a my Secondary GitHub Account, used solely to resolve application clashes as I had to change my Main GitHub Account UserName**. <br/>
-**Please go through my main GitHub repo :)**
+**Please go through my main GitHub repo :)**<br/>
 <strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
 <h1></h1>
 <div id="header" align="center">
