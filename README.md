@@ -1,4 +1,6 @@
-**This is a my Secondary GitHub Account, used solely to resolve application clashes as I had to change my main GitHub Name**.
+**This is a my Secondary GitHub Account, used solely to resolve application clashes as I had to change my Main GitHub Account UserName**. <br/>
+**Please go through my main GitHub repo :)**
+<strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
 <h1></h1>
 <div id="header" align="center">
 <div id="badges">
@@ -30,7 +32,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
   
 </h1>
-<strong>Main GitHub -> <a href="https://github.com/harshit-pandey-3001">harshit-pandey-3001</a></strong>
+
 </div>
 <!--   <img src="https://i.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.webp" width="600"/> -->
 
@@ -79,22 +81,4 @@ Coding enthusiast and a Full Stack Developer
   
 
  <h1></h1>
-  
-### :point_right: My Stats :point_left:
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitPan&theme=gotham" alt="HarshitPan" />
-</p>
-<p align="center">
-
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=h-sm&show_icons=true&locale=en&theme=gotham" alt="h-sm" width="494"/> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitPan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HarshitPan" width="650"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPan&show_icons=true&locale=en&layout=compact&theme=gotham" alt="HarshitPan" width="330"/>
-</p>
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshitPan&color=5c77d6" alt="HarshitPan"/>
-</div>
